@@ -1,0 +1,24 @@
+{
+  "name": "kepler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SureshKuchana/kepler.git"
+  },
+  "keywords": [],
+  "author": "Suresh Koochana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SureshKuchana/kepler/issues"
+  },
+  "homepage": "https://github.com/SureshKuchana/kepler#readme",
+  "dependencies": {
+    "csv-parse": "^4.16.0",
+    "nodemon": "^2.0.7"
+  }
+}
